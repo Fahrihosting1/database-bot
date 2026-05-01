@@ -29,10 +29,13 @@
       "price": 1000,
       "stock": 1,
       "category": "Bot Telegram",
-      "isActive": false,
+      "isActive": true,
       "id": "1777659153160-uyfbcf3n0",
       "createdAt": "2026-05-01T18:12:33.160Z",
-      "updatedAt": "2026-05-01T18:13:11.876Z"
+      "updatedAt": "2026-05-01T19:31:01.287Z",
+      "items": [
+        "Fahriali@gmail.com:password"
+      ]
     }
   ],
   "orders": []
