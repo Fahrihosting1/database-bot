@@ -27,13 +27,16 @@
       "name": "Bot whatsApp",
       "description": "Jakarta",
       "price": 1000,
-      "stock": 0,
+      "stock": 2,
       "category": "Bot Telegram",
       "isActive": true,
       "id": "1777659153160-uyfbcf3n0",
       "createdAt": "2026-05-01T18:12:33.160Z",
-      "updatedAt": "2026-05-01T20:32:46.140Z",
-      "items": []
+      "updatedAt": "2026-05-01T20:46:40.315Z",
+      "items": [
+        "user1:poke",
+        "user2:poke77"
+      ]
     }
   ],
   "orders": []
