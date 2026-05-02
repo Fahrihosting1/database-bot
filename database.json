@@ -133,5 +133,18 @@
     }
   ],
   "qrisSettings": [],
-  "payments": []
+  "payments": [
+    {
+      "orderId": "1777683484844-3fx9176vh",
+      "userId": "7983128433",
+      "amount": 1119,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411195802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A0163049FB3",
+      "transactionId": "FAHRI-DYT0UZ5I",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1777683500452-gk44tvwgj",
+      "createdAt": "2026-05-02T00:58:20.452Z",
+      "updatedAt": "2026-05-02T00:58:20.452Z"
+    }
+  ]
 }
