@@ -11,14 +11,14 @@
   ],
   "botSettings": [
     {
-      "botToken": "8493044190:AAHBD2M9PO_CATz6o0wt_Yb6SfS4fdF4wKs",
+      "botToken": "8773514794:AAH0tmBrn-AvV3R2FKKZy7nhcVKNqlDR6v0",
       "ownerId": "7983128433",
-      "botName": "@Ourapanel_bot",
-      "isActive": false,
+      "botName": "Ourapanel_bot",
+      "isActive": true,
       "id": "1777659092075-0ftq4i1si",
       "userId": "1777658887278-zgwupt9mz",
       "createdAt": "2026-05-01T18:11:32.074Z",
-      "updatedAt": "2026-05-02T00:57:32.799Z"
+      "updatedAt": "2026-05-02T00:57:49.135Z"
     }
   ],
   "products": [
