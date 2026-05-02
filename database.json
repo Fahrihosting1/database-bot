@@ -37,6 +37,21 @@
         "user1:poke",
         "user2:poke77"
       ]
+    },
+    {
+      "userId": "1777658887278-zgwupt9mz",
+      "name": "Spotify",
+      "description": "Tai",
+      "price": 1000,
+      "stock": 1,
+      "category": "Lainnya",
+      "items": [
+        "Poke2:pokr2"
+      ],
+      "isActive": true,
+      "id": "1777684843585-mkm3cg3bq",
+      "createdAt": "2026-05-02T01:20:43.585Z",
+      "updatedAt": "2026-05-02T01:20:43.585Z"
     }
   ],
   "orders": [
