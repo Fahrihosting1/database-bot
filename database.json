@@ -1,18 +1,1 @@
-{
-  "users": [
-    {
-      "email": "admin@g.com",
-      "password": "$2b$10$X7dcYxWCYs13e/nE.Zvn8ekQD8h9gFLO/vhUs6Ca04NO6nrfaBkcK",
-      "role": "admin",
-      "isActive": true,
-      "id": "1778004602113-ajqs6j4op",
-      "createdAt": "2026-05-05T18:10:02.113Z",
-      "updatedAt": "2026-05-05T18:10:02.113Z"
-    }
-  ],
-  "botSettings": [],
-  "products": [],
-  "orders": [],
-  "qrisSettings": [],
-  "payments": []
-}
+{}
