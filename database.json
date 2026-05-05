@@ -173,7 +173,19 @@
       "updatedAt": "2026-05-02T01:21:44.356Z"
     }
   ],
-  "qrisSettings": [],
+  "qrisSettings": [
+    {
+      "provider": "midtrans",
+      "midtransClientKey": "SB-Mid-client-NSdEiqXMrAgiT5o4",
+      "midtransServerKey": "SB-Mid-server-CuZzvybHgk65GmNYEq3OzINF",
+      "midtransMerchantId": "G008944257",
+      "isActive": true,
+      "id": "1777997125463-r1z3rtimn",
+      "type": "admin",
+      "createdAt": "2026-05-05T16:05:25.463Z",
+      "updatedAt": "2026-05-05T16:05:25.463Z"
+    }
+  ],
   "payments": [
     {
       "orderId": "1777683484844-3fx9176vh",
