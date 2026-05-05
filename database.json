@@ -26,6 +26,14 @@
       "id": "1778018701182-oqyfz46qa",
       "createdAt": "2026-05-05T22:05:01.182Z",
       "updatedAt": "2026-05-05T22:05:01.182Z"
+    },
+    {
+      "name": "Opet",
+      "email": "opet@gmail.com",
+      "password": "0c5d69eeeed2efb0c3442ca80527ac4a1b3f111b9fae1df6e6d16b5cae51c517",
+      "id": "1778022511715-lwset60rh",
+      "createdAt": "2026-05-05T23:08:31.715Z",
+      "updatedAt": "2026-05-05T23:08:31.715Z"
     }
   ],
   "botSettings": [
