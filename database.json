@@ -1,26 +1,426 @@
 {
   "users": [
     {
-      "email": "admin@g.com",
-      "password": "0c5d69eeeed2efb0c3442ca80527ac4a1b3f111b9fae1df6e6d16b5cae51c517",
-      "role": "admin",
-      "isActive": true,
-      "id": "1778005026781-d91ojz9bs",
-      "createdAt": "2026-05-05T18:17:06.781Z",
-      "updatedAt": "2026-05-05T18:17:06.781Z"
-    },
-    {
       "name": "Bot whatsApp",
       "email": "fahrihosting3@gmail.com",
       "password": "0c5d69eeeed2efb0c3442ca80527ac4a1b3f111b9fae1df6e6d16b5cae51c517",
-      "id": "1778006834316-75sg4zujl",
-      "createdAt": "2026-05-05T18:47:14.316Z",
-      "updatedAt": "2026-05-05T18:47:14.316Z"
+      "id": "1777658887278-zgwupt9mz",
+      "createdAt": "2026-05-01T18:08:07.278Z",
+      "updatedAt": "2026-05-05T16:58:40.467Z",
+      "role": "user"
+    },
+    {
+      "email": "admin@sewa.app",
+      "password": "174d5dec77bae4a1b5e3867979c29b57451ebe87537f2f201c9b909025478cb9",
+      "name": "Admin SewaBot",
+      "role": "admin",
+      "balance": 0,
+      "id": "1777999035273-mrgk61nsk",
+      "createdAt": "2026-05-05T16:37:15.273Z",
+      "updatedAt": "2026-05-05T16:37:15.273Z"
     }
   ],
-  "botSettings": [],
-  "products": [],
-  "orders": [],
-  "qrisSettings": [],
-  "payments": []
+  "botSettings": [
+    {
+      "botToken": "8269770445:AAHJ_1QRcMTCHCmvCwiwvWU0NuggfbVaIug",
+      "ownerId": "7983128433",
+      "botName": "Ourapanel_bot",
+      "isActive": true,
+      "id": "1777659092075-0ftq4i1si",
+      "userId": "1777658887278-zgwupt9mz",
+      "createdAt": "2026-05-01T18:11:32.074Z",
+      "updatedAt": "2026-05-05T17:27:50.643Z"
+    }
+  ],
+  "products": [
+    {
+      "userId": "1777658887278-zgwupt9mz",
+      "name": "Bot whatsApp",
+      "description": "Jakarta",
+      "price": 1000,
+      "stock": 2,
+      "category": "Bot Telegram",
+      "isActive": true,
+      "id": "1777659153160-uyfbcf3n0",
+      "createdAt": "2026-05-01T18:12:33.160Z",
+      "updatedAt": "2026-05-01T20:46:40.315Z",
+      "items": [
+        "user1:poke",
+        "user2:poke77"
+      ]
+    },
+    {
+      "userId": "1777658887278-zgwupt9mz",
+      "name": "Spotify",
+      "description": "Tai",
+      "price": 1000,
+      "stock": 1,
+      "category": "Lainnya",
+      "items": [
+        "Poke2:pokr2"
+      ],
+      "isActive": true,
+      "id": "1777684843585-mkm3cg3bq",
+      "createdAt": "2026-05-02T01:20:43.585Z",
+      "updatedAt": "2026-05-02T01:20:43.585Z"
+    }
+  ],
+  "orders": [
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777682189449-5qrwmsggj",
+      "createdAt": "2026-05-02T00:36:29.449Z",
+      "updatedAt": "2026-05-02T00:36:29.449Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777682196592-3sci0yk1v",
+      "createdAt": "2026-05-02T00:36:36.592Z",
+      "updatedAt": "2026-05-02T00:36:36.592Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777682824467-t4idm743j",
+      "createdAt": "2026-05-02T00:47:04.467Z",
+      "updatedAt": "2026-05-02T00:47:04.467Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777682986016-1pnbyng78",
+      "createdAt": "2026-05-02T00:49:46.016Z",
+      "updatedAt": "2026-05-02T00:49:46.016Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777683030369-jlk8hrmxt",
+      "createdAt": "2026-05-02T00:50:30.369Z",
+      "updatedAt": "2026-05-02T00:50:30.369Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777683430061-rffxxwd4o",
+      "createdAt": "2026-05-02T00:57:10.061Z",
+      "updatedAt": "2026-05-02T00:57:10.061Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777683484844-3fx9176vh",
+      "createdAt": "2026-05-02T00:58:04.844Z",
+      "updatedAt": "2026-05-02T00:58:04.844Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777683503084-q3xix7h0f",
+      "createdAt": "2026-05-02T00:58:23.084Z",
+      "updatedAt": "2026-05-02T00:58:23.084Z"
+    },
+    {
+      "productId": "1777684843585-mkm3cg3bq",
+      "productName": "Spotify",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777684904356-w3k9qfvfz",
+      "createdAt": "2026-05-02T01:21:44.356Z",
+      "updatedAt": "2026-05-02T01:21:44.356Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1777997186618-zuyt16jdf",
+      "createdAt": "2026-05-05T16:06:26.618Z",
+      "updatedAt": "2026-05-05T16:06:26.618Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778000400341-6zn7sm1at",
+      "createdAt": "2026-05-05T17:00:00.341Z",
+      "updatedAt": "2026-05-05T17:00:00.341Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778000491842-aomkcjh09",
+      "createdAt": "2026-05-05T17:01:31.842Z",
+      "updatedAt": "2026-05-05T17:01:31.842Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778000915024-gp7qioxoi",
+      "createdAt": "2026-05-05T17:08:35.023Z",
+      "updatedAt": "2026-05-05T17:08:35.023Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778001019113-a82vbml9m",
+      "createdAt": "2026-05-05T17:10:19.113Z",
+      "updatedAt": "2026-05-05T17:10:19.113Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778001532843-wip5nvz5u",
+      "createdAt": "2026-05-05T17:18:52.843Z",
+      "updatedAt": "2026-05-05T17:18:52.843Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778001884096-skcazfz0o",
+      "createdAt": "2026-05-05T17:24:44.096Z",
+      "updatedAt": "2026-05-05T17:24:44.096Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778002093263-jkjebfikq",
+      "createdAt": "2026-05-05T17:28:13.263Z",
+      "updatedAt": "2026-05-05T17:28:13.263Z"
+    }
+  ],
+  "qrisSettings": [
+    {
+      "provider": "midtrans",
+      "midtransClientKey": "SB-Mid-client-NSdEiqXMrAgiT5o4",
+      "midtransServerKey": "SB-Mid-server-CuZzvybHgk65GmNYEq3OzINF",
+      "midtransMerchantId": "G008944257",
+      "isActive": true,
+      "id": "1777997125463-r1z3rtimn",
+      "type": "admin",
+      "createdAt": "2026-05-05T16:05:25.463Z",
+      "updatedAt": "2026-05-05T17:09:24.461Z"
+    }
+  ],
+  "payments": [
+    {
+      "orderId": "1777683484844-3fx9176vh",
+      "userId": "7983128433",
+      "amount": 1119,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411195802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A0163049FB3",
+      "transactionId": "FAHRI-DYT0UZ5I",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1777683500452-gk44tvwgj",
+      "createdAt": "2026-05-02T00:58:20.452Z",
+      "updatedAt": "2026-05-02T00:58:20.452Z"
+    },
+    {
+      "orderId": "1777683503084-q3xix7h0f",
+      "userId": "7983128433",
+      "amount": 1105,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411055802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A016304BCAD",
+      "transactionId": "FAHRI-930PS0P6",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1777683506269-7yyvkzcla",
+      "createdAt": "2026-05-02T00:58:26.269Z",
+      "updatedAt": "2026-05-02T00:58:26.269Z"
+    },
+    {
+      "orderId": "1777684904356-w3k9qfvfz",
+      "userId": "7983128433",
+      "amount": 1128,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411285802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A0163047001",
+      "transactionId": "FAHRI-J2XSULMQ",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1777684910652-ww0rkk5q8",
+      "createdAt": "2026-05-02T01:21:50.652Z",
+      "updatedAt": "2026-05-02T01:21:50.652Z"
+    },
+    {
+      "orderId": "1777997186618-zuyt16jdf",
+      "userId": "7983128433",
+      "amount": 1160,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411605802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A016304FB15",
+      "transactionId": "FAHRI-QNP3E1NI",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1777997192946-23eahpi1z",
+      "createdAt": "2026-05-05T16:06:32.946Z",
+      "updatedAt": "2026-05-05T16:06:32.946Z"
+    },
+    {
+      "orderId": "1778000400341-6zn7sm1at",
+      "userId": "7983128433",
+      "amount": 1131,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411315802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A016304DBA7",
+      "transactionId": "FAHRI-7B24XDTB",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1778000406367-mm6phqr5u",
+      "createdAt": "2026-05-05T17:00:06.367Z",
+      "updatedAt": "2026-05-05T17:00:06.367Z"
+    },
+    {
+      "orderId": "1778000491842-aomkcjh09",
+      "userId": "7983128433",
+      "amount": 1125,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411255802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A016304F9AD",
+      "transactionId": "FAHRI-M1K9APXS",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1778000508591-t56bka416",
+      "createdAt": "2026-05-05T17:01:48.591Z",
+      "updatedAt": "2026-05-05T17:01:48.591Z"
+    },
+    {
+      "orderId": "1778000915024-gp7qioxoi",
+      "userId": "7983128433",
+      "amount": 1170,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411705802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A016304D995",
+      "transactionId": "FAHRI-6A11WENJ",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1778000921573-j6qkxkpbo",
+      "createdAt": "2026-05-05T17:08:41.573Z",
+      "updatedAt": "2026-05-05T17:08:41.573Z"
+    },
+    {
+      "orderId": "1778001019113-a82vbml9m",
+      "userId": "7983128433",
+      "amount": 1127,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411275802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A016304F9E8",
+      "transactionId": "FAHRI-S8I5KS77",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1778001024681-746dwtfz4",
+      "createdAt": "2026-05-05T17:10:24.681Z",
+      "updatedAt": "2026-05-05T17:10:24.681Z"
+    },
+    {
+      "orderId": "1778001532843-wip5nvz5u",
+      "userId": "7983128433",
+      "amount": 1119,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411195802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A0163049FB3",
+      "transactionId": "FAHRI-TOKD4HCS",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1778001538380-n0fyun2ck",
+      "createdAt": "2026-05-05T17:18:58.380Z",
+      "updatedAt": "2026-05-05T17:18:58.380Z"
+    },
+    {
+      "orderId": "1778001884096-skcazfz0o",
+      "userId": "7983128433",
+      "amount": 1121,
+      "qrisUrl": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI520454115303360540411215802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A016304F927",
+      "transactionId": "FAHRI-6NAVWUEX",
+      "status": "pending",
+      "paymentMethod": "qris",
+      "id": "1778001889628-z2zdcap0o",
+      "createdAt": "2026-05-05T17:24:49.628Z",
+      "updatedAt": "2026-05-05T17:24:49.628Z"
+    }
+  ]
 }
