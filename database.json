@@ -7,6 +7,16 @@
       "id": "1777658887278-zgwupt9mz",
       "createdAt": "2026-05-01T18:08:07.278Z",
       "updatedAt": "2026-05-01T18:08:07.278Z"
+    },
+    {
+      "email": "admin@sewa.app",
+      "password": "174d5dec77bae4a1b5e3867979c29b57451ebe87537f2f201c9b909025478cb9",
+      "name": "Admin SewaBot",
+      "role": "admin",
+      "balance": 0,
+      "id": "1777999035273-mrgk61nsk",
+      "createdAt": "2026-05-05T16:37:15.273Z",
+      "updatedAt": "2026-05-05T16:37:15.273Z"
     }
   ],
   "botSettings": [
