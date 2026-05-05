@@ -598,19 +598,19 @@
   ],
   "paymentSettings": {
     "id": "1778021133507-xwg8uxcyw",
-    "orkutEnabled": false,
-    "orkutUsername": "",
-    "orkutApiKey": "",
-    "orkutToken": "",
-    "orkutMerchantId": "",
-    "orkutCodeQr": "",
+    "orkutEnabled": true,
+    "orkutUsername": "comot4zi3",
+    "orkutApiKey": "new2025",
+    "orkutToken": "2008874:buGS6koVX4aATv8pZR1znsQrBDi5tgc0",
+    "orkutMerchantId": "2008874",
+    "orkutCodeQr": "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI5204541153033605802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A01630477D2",
     "midtransEnabled": true,
     "midtransServerKey": "SB-Mid-server-CuZzvybHgk65GmNYEq3OzINF",
     "midtransClientKey": "SB-Mid-client-NSdEiqXMrAgiT5o4",
     "midtransIsProduction": false,
     "midtransMerchantId": "G008944257",
-    "defaultPaymentMethod": "midtrans",
+    "defaultPaymentMethod": "orkut",
     "createdAt": "2026-05-05T22:45:33.507Z",
-    "updatedAt": "2026-05-05T22:45:33.507Z"
+    "updatedAt": "2026-05-05T23:43:22.133Z"
   }
 }
