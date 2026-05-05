@@ -33,11 +33,11 @@
       "botToken": "8269770445:AAHJ_1QRcMTCHCmvCwiwvWU0NuggfbVaIug",
       "ownerId": "7983128433",
       "botName": "Ourapanel_bot",
-      "isActive": true,
+      "isActive": false,
       "id": "1777659092075-0ftq4i1si",
       "userId": "1777658887278-zgwupt9mz",
       "createdAt": "2026-05-01T18:11:32.074Z",
-      "updatedAt": "2026-05-05T22:39:13.733Z"
+      "updatedAt": "2026-05-05T22:43:40.463Z"
     }
   ],
   "products": [
@@ -456,5 +456,6 @@
       "createdAt": "2026-05-05T17:24:49.628Z",
       "updatedAt": "2026-05-05T17:24:49.628Z"
     }
-  ]
+  ],
+  "paymentSettings": null
 }
