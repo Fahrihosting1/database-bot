@@ -482,5 +482,21 @@
       "updatedAt": "2026-05-05T22:44:37.390Z"
     }
   ],
-  "paymentSettings": null
+  "paymentSettings": {
+    "id": "1778021133507-xwg8uxcyw",
+    "orkutEnabled": false,
+    "orkutUsername": "",
+    "orkutApiKey": "",
+    "orkutToken": "",
+    "orkutMerchantId": "",
+    "orkutCodeQr": "",
+    "midtransEnabled": true,
+    "midtransServerKey": "SB-Mid-server-CuZzvybHgk65GmNYEq3OzINF",
+    "midtransClientKey": "SB-Mid-client-NSdEiqXMrAgiT5o4",
+    "midtransIsProduction": false,
+    "midtransMerchantId": "G008944257",
+    "defaultPaymentMethod": "midtrans",
+    "createdAt": "2026-05-05T22:45:33.507Z",
+    "updatedAt": "2026-05-05T22:45:33.507Z"
+  }
 }
