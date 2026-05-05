@@ -294,6 +294,19 @@
       "id": "1778002093263-jkjebfikq",
       "createdAt": "2026-05-05T17:28:13.263Z",
       "updatedAt": "2026-05-05T17:28:13.263Z"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778020774474-by8rubyic",
+      "createdAt": "2026-05-05T22:39:34.474Z",
+      "updatedAt": "2026-05-05T22:39:34.474Z"
     }
   ],
   "qrisSettings": [
@@ -430,22 +443,5 @@
       "createdAt": "2026-05-05T17:24:49.628Z",
       "updatedAt": "2026-05-05T17:24:49.628Z"
     }
-  ],
-  "paymentSettings": {
-    "id": "1778020693715-3lwr818yu",
-    "orkutEnabled": false,
-    "orkutUsername": "",
-    "orkutApiKey": "",
-    "orkutToken": "",
-    "orkutMerchantId": "",
-    "orkutCodeQr": "",
-    "midtransEnabled": true,
-    "midtransServerKey": "SB-Mid-server-CuZzvybHgk65GmNYEq3OzINF",
-    "midtransClientKey": "SB-Mid-client-NSdEiqXMrAgiT5o4",
-    "midtransIsProduction": false,
-    "midtransMerchantId": "G008944257",
-    "defaultPaymentMethod": "midtrans",
-    "createdAt": "2026-05-05T22:38:13.715Z",
-    "updatedAt": "2026-05-05T22:38:13.715Z"
-  }
+  ]
 }
