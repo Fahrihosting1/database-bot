@@ -95,15 +95,13 @@
       "name": "Opet",
       "description": "Poke",
       "price": 1000,
-      "stock": 1,
+      "stock": 0,
       "category": "Lainnya",
-      "items": [
-        "user:666"
-      ],
+      "items": [],
       "isActive": true,
       "id": "1778022969890-hp2txkhzk",
       "createdAt": "2026-05-05T23:16:09.890Z",
-      "updatedAt": "2026-05-05T23:36:02.364Z"
+      "updatedAt": "2026-05-05T23:38:42.718Z"
     }
   ],
   "orders": [
