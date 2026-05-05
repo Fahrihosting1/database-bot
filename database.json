@@ -89,6 +89,21 @@
       "id": "1777684843585-mkm3cg3bq",
       "createdAt": "2026-05-02T01:20:43.585Z",
       "updatedAt": "2026-05-02T01:20:43.585Z"
+    },
+    {
+      "userId": "1778022511715-lwset60rh",
+      "name": "Opet",
+      "description": "Poke",
+      "price": 1000,
+      "stock": 1,
+      "category": "Lainnya",
+      "items": [
+        "Uuuuu:uyuu"
+      ],
+      "isActive": true,
+      "id": "1778022969890-hp2txkhzk",
+      "createdAt": "2026-05-05T23:16:09.890Z",
+      "updatedAt": "2026-05-05T23:16:09.890Z"
     }
   ],
   "orders": [
