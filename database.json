@@ -540,11 +540,11 @@
       "buyerContact": "Lilillfh",
       "quantity": 1,
       "totalPrice": 1000,
-      "status": "pending",
+      "status": "cancelled",
       "paymentStatus": "pending",
       "id": "1778031351727-ckk4wwpb7",
       "createdAt": "2026-05-06T01:35:51.727Z",
-      "updatedAt": "2026-05-06T01:35:53.982Z",
+      "updatedAt": "2026-05-06T01:44:10.193Z",
       "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/7cdc12d2-f1af-48db-baa8-5ff47cee8cf1/qr-code",
       "paymentTransactionId": "7cdc12d2-f1af-48db-baa8-5ff47cee8cf1"
     }
