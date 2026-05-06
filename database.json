@@ -905,7 +905,23 @@
     "createdAt": "2026-05-06T01:08:52.059Z",
     "updatedAt": "2026-05-06T01:09:26.870Z"
   },
-  "withdrawals": [],
+  "withdrawals": [
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "Timoty",
+      "userEmail": "timoty@g.com",
+      "amount": 10000,
+      "fee": 1000,
+      "netAmount": 9000,
+      "bankType": "dana",
+      "bankAccount": "085697070530",
+      "bankAccountName": "Ali",
+      "status": "pending",
+      "id": "1778058481827-9tg7dvz91",
+      "createdAt": "2026-05-06T09:08:01.827Z",
+      "updatedAt": "2026-05-06T09:08:01.827Z"
+    }
+  ],
   "balanceAdjustments": [
     {
       "userId": "1778030868005-31q1qxn5c",
