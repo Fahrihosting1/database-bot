@@ -430,6 +430,19 @@
       "updatedAt": "2026-05-06T00:27:43.425Z",
       "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/c383d856-95f6-4341-9432-e8fe59652727/qr-code",
       "paymentTransactionId": "c383d856-95f6-4341-9432-e8fe59652727"
+    },
+    {
+      "productId": "1777659153160-uyfbcf3n0",
+      "productName": "Bot whatsApp",
+      "buyerId": "7983128433",
+      "buyerName": "Ali",
+      "quantity": 1,
+      "totalPrice": 1000,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "id": "1778029596608-az3y6j4d0",
+      "createdAt": "2026-05-06T01:06:36.608Z",
+      "updatedAt": "2026-05-06T01:06:36.608Z"
     }
   ],
   "qrisSettings": [
@@ -626,22 +639,5 @@
       "createdAt": "2026-05-06T00:20:30.979Z",
       "updatedAt": "2026-05-06T00:21:23.235Z"
     }
-  ],
-  "paymentSettings": {
-    "id": "1778021133507-xwg8uxcyw",
-    "orkutEnabled": true,
-    "orkutUsername": "comot4zi3",
-    "orkutApiKey": "new2025",
-    "orkutToken": "2008874:buGS6koVX4aATv8pZR1znsQrBDi5tgc0",
-    "orkutMerchantId": "2008874",
-    "orkutCodeQr": "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI5204541153033605802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A01630477D2",
-    "midtransEnabled": true,
-    "midtransServerKey": "SB-Mid-server-CuZzvybHgk65GmNYEq3OzINF",
-    "midtransClientKey": "SB-Mid-client-NSdEiqXMrAgiT5o4",
-    "midtransIsProduction": false,
-    "midtransMerchantId": "G008944257",
-    "defaultPaymentMethod": "orkut",
-    "createdAt": "2026-05-05T22:45:33.507Z",
-    "updatedAt": "2026-05-05T23:43:22.133Z"
-  }
+  ]
 }
