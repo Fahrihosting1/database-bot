@@ -937,6 +937,18 @@
       "adminName": "Bot whatsApp",
       "id": "1778058122645-oxi2cmj07",
       "createdAt": "2026-05-06T09:02:02.645Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "Timoty",
+      "userEmail": "timoty@g.com",
+      "amount": 25000,
+      "type": "deduct",
+      "reason": "Pembelian Sewa Auto Bot Order (3 Bulan)",
+      "adminId": "system",
+      "adminName": "System",
+      "id": "1778059325498-mxgobsqb3",
+      "createdAt": "2026-05-06T09:22:05.498Z"
     }
   ],
   "botSubscriptions": [
