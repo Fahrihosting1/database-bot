@@ -41,11 +41,11 @@
       "botToken": "8773514794:AAH0tmBrn-AvV3R2FKKZy7nhcVKNqlDR6v0",
       "ownerId": "7983128433",
       "botName": "Ourapanel_bot",
-      "isActive": false,
+      "isActive": true,
       "id": "1777659092075-0ftq4i1si",
       "userId": "1777658887278-zgwupt9mz",
       "createdAt": "2026-05-01T18:11:32.074Z",
-      "updatedAt": "2026-05-06T01:09:45.640Z",
+      "updatedAt": "2026-05-06T01:09:47.689Z",
       "preferredPaymentMethod": "midtrans"
     },
     {
