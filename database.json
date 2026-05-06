@@ -149,6 +149,21 @@
       "id": "1778031126800-u560h3jmp",
       "createdAt": "2026-05-06T01:32:06.800Z",
       "updatedAt": "2026-05-06T01:32:06.800Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "name": "Minecraft",
+      "description": "Cely",
+      "price": 1000,
+      "stock": 1,
+      "category": "Lainnya",
+      "items": [
+        "Gggg:gyyyy"
+      ],
+      "isActive": true,
+      "id": "1778111659726-dyim9gj0x",
+      "createdAt": "2026-05-06T23:54:19.726Z",
+      "updatedAt": "2026-05-06T23:54:19.726Z"
     }
   ],
   "orders": [
