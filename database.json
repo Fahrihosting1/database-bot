@@ -45,7 +45,8 @@
       "id": "1777659092075-0ftq4i1si",
       "userId": "1777658887278-zgwupt9mz",
       "createdAt": "2026-05-01T18:11:32.074Z",
-      "updatedAt": "2026-05-05T22:44:11.851Z"
+      "updatedAt": "2026-05-06T00:43:34.125Z",
+      "preferredPaymentMethod": "midtrans"
     },
     {
       "botToken": "8302313228:AAHR3Lb84aU5nJ0A-nNGbwXex2cQBK35IZ4",
