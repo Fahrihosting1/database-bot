@@ -71,11 +71,11 @@
       "botToken": "8539638605:AAH00bna5cAXf0HU0uKURB3uy62X_gbo6Ro",
       "ownerId": "7983128433",
       "botName": "Test",
-      "isActive": true,
+      "isActive": false,
       "id": "1778030909998-dz5h1uj07",
       "userId": "1778030868005-31q1qxn5c",
       "createdAt": "2026-05-06T01:28:29.998Z",
-      "updatedAt": "2026-05-06T01:29:38.831Z",
+      "updatedAt": "2026-05-06T01:30:22.456Z",
       "preferredPaymentMethod": "midtrans"
     }
   ],
