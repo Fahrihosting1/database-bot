@@ -527,7 +527,9 @@
       "paymentStatus": "pending",
       "id": "1778031150106-8xy73qkpb",
       "createdAt": "2026-05-06T01:32:30.106Z",
-      "updatedAt": "2026-05-06T01:32:30.106Z"
+      "updatedAt": "2026-05-06T01:32:32.093Z",
+      "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/9d463419-240f-4fc9-9969-5743cf3b90ed/qr-code",
+      "paymentTransactionId": "9d463419-240f-4fc9-9969-5743cf3b90ed"
     }
   ],
   "qrisSettings": [
