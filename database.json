@@ -621,11 +621,11 @@
       "amount": 1000,
       "qrisUrl": "https://api.sandbox.midtrans.com/v2/qris/c383d856-95f6-4341-9432-e8fe59652727/qr-code",
       "transactionId": "c383d856-95f6-4341-9432-e8fe59652727",
-      "status": "pending",
+      "status": "paid",
       "paymentMethod": "midtrans",
       "id": "1778026830979-38hku21fo",
       "createdAt": "2026-05-06T00:20:30.979Z",
-      "updatedAt": "2026-05-06T00:20:30.979Z"
+      "updatedAt": "2026-05-06T00:21:23.235Z"
     }
   ],
   "paymentSettings": {
