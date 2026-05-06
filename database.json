@@ -661,12 +661,12 @@
     "orkutMerchantId": "",
     "orkutCodeQr": "",
     "midtransEnabled": true,
-    "midtransServerKey": "",
-    "midtransClientKey": "",
+    "midtransServerKey": "SB-Mid-server-CuZzvybHgk65GmNYEq3OzINF",
+    "midtransClientKey": "SB-Mid-client-NSdEiqXMrAgiT5o4",
     "midtransIsProduction": false,
-    "midtransMerchantId": "",
+    "midtransMerchantId": "G008944257",
     "defaultPaymentMethod": "midtrans",
     "createdAt": "2026-05-06T01:08:52.059Z",
-    "updatedAt": "2026-05-06T01:08:52.059Z"
+    "updatedAt": "2026-05-06T01:09:26.870Z"
   }
 }
