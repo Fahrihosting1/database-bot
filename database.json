@@ -125,6 +125,21 @@
       "id": "1778022969890-hp2txkhzk",
       "createdAt": "2026-05-05T23:16:09.890Z",
       "updatedAt": "2026-05-06T01:25:36.559Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "name": "Source Engine",
+      "description": "Poke",
+      "price": 1000,
+      "stock": 1,
+      "category": "Lainnya",
+      "items": [
+        "Jjhhh:yghhjh"
+      ],
+      "isActive": true,
+      "id": "1778031126800-u560h3jmp",
+      "createdAt": "2026-05-06T01:32:06.800Z",
+      "updatedAt": "2026-05-06T01:32:06.800Z"
     }
   ],
   "orders": [
