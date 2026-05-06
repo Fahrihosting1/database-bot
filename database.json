@@ -422,11 +422,11 @@
       "buyerContact": "Lilillfh",
       "quantity": 1,
       "totalPrice": 1000,
-      "status": "processing",
+      "status": "completed",
       "paymentStatus": "paid",
       "id": "1778026827892-prjl0b5i3",
       "createdAt": "2026-05-06T00:20:27.892Z",
-      "updatedAt": "2026-05-06T00:21:22.513Z",
+      "updatedAt": "2026-05-06T00:27:43.425Z",
       "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/c383d856-95f6-4341-9432-e8fe59652727/qr-code",
       "paymentTransactionId": "c383d856-95f6-4341-9432-e8fe59652727"
     }
