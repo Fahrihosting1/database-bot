@@ -1131,7 +1131,11 @@
     "midtransMerchantId": "G008944257",
     "defaultPaymentMethod": "orkut",
     "createdAt": "2026-05-06T01:08:52.059Z",
-    "updatedAt": "2026-05-07T06:11:26.678Z"
+    "updatedAt": "2026-05-07T13:06:37.785Z",
+    "midtransFeeType": "fixed",
+    "midtransFeeAmount": 100,
+    "midtransRandomFeeMin": 1,
+    "midtransRandomFeeMax": 100
   },
   "withdrawals": [
     {
