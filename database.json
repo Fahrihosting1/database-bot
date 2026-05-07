@@ -1323,5 +1323,19 @@
       "createdAt": "2026-05-07T05:59:10.540Z",
       "updatedAt": "2026-05-07T06:23:09.229Z"
     }
+  ],
+  "adminFeeIncomes": [],
+  "botActivityLogs": [],
+  "accountActivities": [
+    {
+      "userId": "1777658887278-zgwupt9mz",
+      "action": "logout",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Logout dari akun",
+      "id": "1778193978315-816n2rygz",
+      "createdAt": "2026-05-07T22:46:18.314Z"
+    }
   ]
 }
