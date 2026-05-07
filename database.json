@@ -1422,6 +1422,16 @@
       "details": "Logout dari akun",
       "id": "1778197233719-l4cutqkgk",
       "createdAt": "2026-05-07T23:40:33.719Z"
+    },
+    {
+      "userId": "1777658887278-zgwupt9mz",
+      "action": "login",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Login berhasil",
+      "id": "1778197237142-t8l7ufnua",
+      "createdAt": "2026-05-07T23:40:37.142Z"
     }
   ]
 }
