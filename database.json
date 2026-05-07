@@ -1396,6 +1396,13 @@
       "details": "Logout dari akun",
       "id": "1778196964950-ib91nj82u",
       "createdAt": "2026-05-07T23:36:04.950Z"
+    },
+    {
+      "userId": "1778196991623-gv8f5v7rm",
+      "action": "register",
+      "details": "Pendaftaran akun baru: fahrialiff51@gmail.com",
+      "id": "1778196992396-0syxxntb6",
+      "createdAt": "2026-05-07T23:36:32.396Z"
     }
   ]
 }
