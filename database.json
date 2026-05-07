@@ -1172,6 +1172,7 @@
     "midtransRandomFeeMin": 1,
     "midtransRandomFeeMax": 100
   },
+  "otpSettings": null,
   "withdrawals": [
     {
       "userId": "1778030868005-31q1qxn5c",
@@ -1356,6 +1357,16 @@
       "details": "Login berhasil",
       "id": "1778194057898-6oetonxw3",
       "createdAt": "2026-05-07T22:47:37.898Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "action": "logout",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Logout dari akun",
+      "id": "1778196887722-0vr82lth9",
+      "createdAt": "2026-05-07T23:34:47.722Z"
     }
   ]
 }
