@@ -218,6 +218,22 @@
       "id": "1778136230976-46cilr5vw",
       "createdAt": "2026-05-07T06:43:50.976Z",
       "updatedAt": "2026-05-07T06:43:50.976Z"
+    },
+    {
+      "userId": "1778022511715-lwset60rh",
+      "categoryCode": "AIBOT",
+      "code": "2BLN",
+      "name": "AI PRO 2BULAN",
+      "description": "",
+      "price": 1000,
+      "stock": 1,
+      "items": [
+        "Akunbot:hhh"
+      ],
+      "isActive": true,
+      "id": "1778136291276-kl5wimk1m",
+      "createdAt": "2026-05-07T06:44:51.276Z",
+      "updatedAt": "2026-05-07T06:44:51.276Z"
     }
   ],
   "orders": [
