@@ -1412,6 +1412,16 @@
       "details": "Pendaftaran akun baru: fahrialiff51@gmail.com",
       "id": "1778196992396-0syxxntb6",
       "createdAt": "2026-05-07T23:36:32.396Z"
+    },
+    {
+      "userId": "1778196991623-gv8f5v7rm",
+      "action": "logout",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Logout dari akun",
+      "id": "1778197233719-l4cutqkgk",
+      "createdAt": "2026-05-07T23:40:33.719Z"
     }
   ]
 }
