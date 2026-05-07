@@ -74,8 +74,9 @@
       "id": "1778022606692-1m5p5sdli",
       "userId": "1778022511715-lwset60rh",
       "createdAt": "2026-05-05T23:10:06.692Z",
-      "updatedAt": "2026-05-07T11:57:46.107Z",
-      "preferredPaymentMethod": "midtrans"
+      "updatedAt": "2026-05-07T11:59:19.288Z",
+      "preferredPaymentMethod": "midtrans",
+      "botPhotoUrl": "https://files.catbox.moe/iubx85.jpg"
     },
     {
       "botToken": "8490983452:AAG8Z-vvjKmNug-Jw-sDUS3IlhF1FYzzjQ4",
