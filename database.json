@@ -724,7 +724,9 @@
       "isSandbox": true,
       "id": "1778157599786-liku64y6z",
       "createdAt": "2026-05-07T12:39:59.786Z",
-      "updatedAt": "2026-05-07T12:39:59.786Z"
+      "updatedAt": "2026-05-07T12:40:01.913Z",
+      "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/91f22f71-97b4-40ea-925b-cfe749cb9f57/qr-code",
+      "paymentTransactionId": "91f22f71-97b4-40ea-925b-cfe749cb9f57"
     }
   ],
   "qrisSettings": [
