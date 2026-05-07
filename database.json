@@ -88,6 +88,18 @@
       "preferredPaymentMethod": "midtrans"
     }
   ],
+  "productCategories": [
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "code": "AIBOT",
+      "name": "Bot whatsApp",
+      "description": "Poke",
+      "isActive": true,
+      "id": "1778115042177-q951w0m1u",
+      "createdAt": "2026-05-07T00:50:42.177Z",
+      "updatedAt": "2026-05-07T00:50:42.177Z"
+    }
+  ],
   "products": [
     {
       "userId": "1777658887278-zgwupt9mz",
