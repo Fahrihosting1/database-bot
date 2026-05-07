@@ -202,6 +202,22 @@
       "id": "1778115094623-lryh2b57f",
       "createdAt": "2026-05-07T00:51:34.623Z",
       "updatedAt": "2026-05-07T00:51:34.623Z"
+    },
+    {
+      "userId": "1778022511715-lwset60rh",
+      "categoryCode": "AIBOT",
+      "code": "#1BLN",
+      "name": "AI PRO 1BULAN",
+      "description": "Ai",
+      "price": 1000,
+      "stock": 1,
+      "items": [
+        "Jjhgg:hyhh"
+      ],
+      "isActive": true,
+      "id": "1778136230976-46cilr5vw",
+      "createdAt": "2026-05-07T06:43:50.976Z",
+      "updatedAt": "2026-05-07T06:43:50.976Z"
     }
   ],
   "orders": [
