@@ -1190,7 +1190,14 @@
     "midtransRandomFeeMin": 1,
     "midtransRandomFeeMax": 100
   },
-  "otpSettings": null,
+  "otpSettings": {
+    "id": "1778197487128-dp15fsban",
+    "fromEmail": "fahrialiff51@gmail.com",
+    "fromPass": "dgdc nosy dtvm zfrb",
+    "isActive": true,
+    "createdAt": "2026-05-07T23:44:47.128Z",
+    "updatedAt": "2026-05-07T23:44:47.128Z"
+  },
   "withdrawals": [
     {
       "userId": "1778030868005-31q1qxn5c",
