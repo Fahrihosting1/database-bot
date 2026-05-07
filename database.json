@@ -1113,7 +1113,9 @@
       "paymentMethod": "midtrans",
       "id": "1778157602870-wfu87tei3",
       "createdAt": "2026-05-07T12:40:02.870Z",
-      "updatedAt": "2026-05-07T12:40:02.870Z"
+      "updatedAt": "2026-05-07T12:40:06.494Z",
+      "qrisMessageId": 3713,
+      "qrisChatId": 7983128433
     }
   ],
   "paymentSettings": {
