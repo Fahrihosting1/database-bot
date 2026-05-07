@@ -52,6 +52,15 @@
       "id": "1778101794565-jne0h3lmo",
       "createdAt": "2026-05-06T21:09:54.565Z",
       "updatedAt": "2026-05-06T21:09:54.565Z"
+    },
+    {
+      "name": "Deankt",
+      "email": "fahrialiff51@gmail.com",
+      "password": "0c5d69eeeed2efb0c3442ca80527ac4a1b3f111b9fae1df6e6d16b5cae51c517",
+      "role": "user",
+      "id": "1778196991623-gv8f5v7rm",
+      "createdAt": "2026-05-07T23:36:31.623Z",
+      "updatedAt": "2026-05-07T23:36:31.623Z"
     }
   ],
   "botSettings": [
