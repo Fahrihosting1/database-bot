@@ -210,14 +210,12 @@
       "name": "AI PRO 1BULAN",
       "description": "Ai",
       "price": 1000,
-      "stock": 1,
-      "items": [
-        "Jjhgg:hyhh"
-      ],
+      "stock": 0,
+      "items": [],
       "isActive": true,
       "id": "1778136230976-46cilr5vw",
       "createdAt": "2026-05-07T06:43:50.976Z",
-      "updatedAt": "2026-05-07T06:43:50.976Z"
+      "updatedAt": "2026-05-07T07:12:46.546Z"
     },
     {
       "userId": "1778022511715-lwset60rh",
