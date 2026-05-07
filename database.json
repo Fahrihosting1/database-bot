@@ -1109,11 +1109,11 @@
       "amount": 1000,
       "qrisUrl": "https://api.sandbox.midtrans.com/v2/qris/91f22f71-97b4-40ea-925b-cfe749cb9f57/qr-code",
       "transactionId": "91f22f71-97b4-40ea-925b-cfe749cb9f57",
-      "status": "pending",
+      "status": "paid",
       "paymentMethod": "midtrans",
       "id": "1778157602870-wfu87tei3",
       "createdAt": "2026-05-07T12:40:02.870Z",
-      "updatedAt": "2026-05-07T12:40:06.494Z",
+      "updatedAt": "2026-05-07T12:40:52.742Z",
       "qrisMessageId": 3713,
       "qrisChatId": 7983128433
     }
