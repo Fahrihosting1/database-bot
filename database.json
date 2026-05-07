@@ -1004,11 +1004,11 @@
       "amount": 152,
       "qrisUrl": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI52045411530336054031525802ID5923GUNAWAN%20STORE%20OK20088746009PONTIANAK61057811162070703A01630464F0",
       "transactionId": "FAHRI-CY15WMNU",
-      "status": "pending",
+      "status": "paid",
       "paymentMethod": "qris",
       "id": "1778133551346-r47indqu4",
       "createdAt": "2026-05-07T05:59:11.346Z",
-      "updatedAt": "2026-05-07T05:59:11.346Z"
+      "updatedAt": "2026-05-07T06:23:07.909Z"
     }
   ],
   "paymentSettings": {
