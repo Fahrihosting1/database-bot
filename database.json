@@ -1346,6 +1346,16 @@
       "details": "Login berhasil",
       "id": "1778193982276-egab0tzre",
       "createdAt": "2026-05-07T22:46:22.276Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "action": "login",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome/136.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Login berhasil",
+      "id": "1778194057898-6oetonxw3",
+      "createdAt": "2026-05-07T22:47:37.898Z"
     }
   ]
 }
