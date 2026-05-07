@@ -98,6 +98,16 @@
       "id": "1778115042177-q951w0m1u",
       "createdAt": "2026-05-07T00:50:42.177Z",
       "updatedAt": "2026-05-07T00:50:42.177Z"
+    },
+    {
+      "userId": "1778022511715-lwset60rh",
+      "code": "AIBOT",
+      "name": "Bot whatsApp",
+      "description": "Hai",
+      "isActive": true,
+      "id": "1778136175215-3ex63u2ot",
+      "createdAt": "2026-05-07T06:42:55.215Z",
+      "updatedAt": "2026-05-07T06:42:55.215Z"
     }
   ],
   "products": [
