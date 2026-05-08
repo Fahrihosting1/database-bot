@@ -1643,6 +1643,18 @@
       "message": "Order: 1 Tahun x1 = Rp 1.185",
       "id": "1778201708656-5xof2383a",
       "createdAt": "2026-05-08T00:55:08.656Z"
+    },
+    {
+      "botToken": "8490983452:AAG8Z-vvjKmNug-Jw-sDUS3IlhF1FYzzjQ4",
+      "botName": "Test",
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "7983128433",
+      "action": "start",
+      "telegramUserId": "7019487697",
+      "telegramUsername": "Fahrihosting",
+      "message": "/start from ғᴀʜʀɪ_ᴏғғɪᴄɪᴀʟ [\"\"]",
+      "id": "1778201821687-e5usi4r8i",
+      "createdAt": "2026-05-08T00:57:01.687Z"
     }
   ],
   "accountActivities": [
