@@ -1930,6 +1930,18 @@
       "message": "/start from ғᴀʜʀɪ_ᴏғғɪᴄɪᴀʟ [\"\"]",
       "id": "1778204492071-7j1t7ho5z",
       "createdAt": "2026-05-08T01:41:32.071Z"
+    },
+    {
+      "botToken": "8490983452:AAG8Z-vvjKmNug-Jw-sDUS3IlhF1FYzzjQ4",
+      "botName": "Test",
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "Timoty",
+      "action": "error",
+      "telegramUserId": "system",
+      "telegramUsername": "system",
+      "message": "Bot \"Test\" dinonaktifkan",
+      "id": "1778204857657-lui61ff66",
+      "createdAt": "2026-05-08T01:47:37.657Z"
     }
   ],
   "accountActivities": [
