@@ -1368,7 +1368,9 @@
       "paymentMethod": "qris",
       "id": "1778203041621-drk2ymsxj",
       "createdAt": "2026-05-08T01:17:21.621Z",
-      "updatedAt": "2026-05-08T01:17:21.621Z"
+      "updatedAt": "2026-05-08T01:17:24.570Z",
+      "qrisMessageId": 86,
+      "qrisChatId": 7019487697
     }
   ],
   "paymentSettings": {
