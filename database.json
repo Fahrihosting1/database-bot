@@ -2270,6 +2270,16 @@
       "details": "Login berhasil",
       "id": "1778204128123-rl8e2wmcw",
       "createdAt": "2026-05-08T01:35:28.123Z"
+    },
+    {
+      "userId": "1777658887278-zgwupt9mz",
+      "action": "login",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1",
+      "deviceInfo": "Safari on macOS",
+      "details": "Login berhasil",
+      "id": "1778209263738-0ozyypu18",
+      "createdAt": "2026-05-08T03:01:03.738Z"
     }
   ]
 }
