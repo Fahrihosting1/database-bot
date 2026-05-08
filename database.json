@@ -808,7 +808,9 @@
       "isSandbox": true,
       "id": "1778201125850-gyqraud50",
       "createdAt": "2026-05-08T00:45:25.850Z",
-      "updatedAt": "2026-05-08T00:45:25.850Z"
+      "updatedAt": "2026-05-08T00:45:27.755Z",
+      "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/ae77f55d-d980-4f85-ad01-6259af3e7cf5/qr-code",
+      "paymentTransactionId": "ae77f55d-d980-4f85-ad01-6259af3e7cf5"
     }
   ],
   "qrisSettings": [
