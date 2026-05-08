@@ -882,19 +882,6 @@
       "type": "admin",
       "createdAt": "2026-05-05T16:05:25.463Z",
       "updatedAt": "2026-05-05T17:09:24.461Z"
-    },
-    {
-      "username": "comot4zie",
-      "apiKey": "new2025",
-      "token": "2008874:buGS6koVX4aATv8pZR1znsQrBDi5tgc0",
-      "merchantId": "2008874",
-      "codeQr": "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214057526533688570303UMI51440014ID.CO.QRIS.WWW0215ID20243395197280303UMI5204541153033605802ID5923GUNAWAN STORE OK20088746009PONTIANAK61057811162070703A01630477D2",
-      "isActive": true,
-      "id": "1778202548965-tchlgs9rm",
-      "type": "user",
-      "userId": "1778030868005-31q1qxn5c",
-      "createdAt": "2026-05-08T01:09:08.965Z",
-      "updatedAt": "2026-05-08T01:09:08.965Z"
     }
   ],
   "payments": [
