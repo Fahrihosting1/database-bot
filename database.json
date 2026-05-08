@@ -70,6 +70,15 @@
       "id": "1778197104003-iexodmu2u",
       "createdAt": "2026-05-07T23:38:24.003Z",
       "updatedAt": "2026-05-07T23:38:24.003Z"
+    },
+    {
+      "name": "galang",
+      "email": "fahripokee279@gmail.com",
+      "password": "0c5d69eeeed2efb0c3442ca80527ac4a1b3f111b9fae1df6e6d16b5cae51c517",
+      "role": "user",
+      "id": "1778198742522-3zk1xkyhw",
+      "createdAt": "2026-05-08T00:05:42.522Z",
+      "updatedAt": "2026-05-08T00:05:42.522Z"
     }
   ],
   "botSettings": [
