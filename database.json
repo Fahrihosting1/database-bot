@@ -1388,7 +1388,20 @@
     }
   ],
   "adminFeeIncomes": [],
-  "botActivityLogs": [],
+  "botActivityLogs": [
+    {
+      "botToken": "8490983452:AAG8Z-vvjKmNug-Jw-sDUS3IlhF1FYzzjQ4",
+      "botName": "Test",
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "Timoty",
+      "action": "error",
+      "telegramUserId": "system",
+      "telegramUsername": "system",
+      "message": "Bot \"Test\" dinonaktifkan",
+      "id": "1778199833975-7ufbhun0v",
+      "createdAt": "2026-05-08T00:23:53.974Z"
+    }
+  ],
   "accountActivities": [
     {
       "userId": "1777658887278-zgwupt9mz",
