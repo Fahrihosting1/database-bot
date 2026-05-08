@@ -1863,6 +1863,18 @@
       "message": "Bot \"Test\" dinonaktifkan",
       "id": "1778202955627-vblh3nfqr",
       "createdAt": "2026-05-08T01:15:55.627Z"
+    },
+    {
+      "botToken": "8490983452:AAG8Z-vvjKmNug-Jw-sDUS3IlhF1FYzzjQ4",
+      "botName": "Test",
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "Timoty",
+      "action": "start",
+      "telegramUserId": "system",
+      "telegramUsername": "system",
+      "message": "Bot \"Test\" diaktifkan",
+      "id": "1778202984568-go8vf8t93",
+      "createdAt": "2026-05-08T01:16:24.568Z"
     }
   ],
   "accountActivities": [
