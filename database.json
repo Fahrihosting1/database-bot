@@ -1954,6 +1954,18 @@
       "message": "Bot \"Test\" diaktifkan",
       "id": "1778204861057-z1vz9toow",
       "createdAt": "2026-05-08T01:47:41.057Z"
+    },
+    {
+      "botToken": "8490983452:AAG8Z-vvjKmNug-Jw-sDUS3IlhF1FYzzjQ4",
+      "botName": "Test",
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "7983128433",
+      "action": "start",
+      "telegramUserId": "7019487697",
+      "telegramUsername": "Fahrihosting",
+      "message": "/start from ғᴀʜʀɪ_ᴏғғɪᴄɪᴀʟ [\"\"]",
+      "id": "1778204871031-k28530272",
+      "createdAt": "2026-05-08T01:47:51.031Z"
     }
   ],
   "accountActivities": [
