@@ -841,13 +841,13 @@
       "buyerContact": "Fahrihosting",
       "quantity": 1,
       "totalPrice": 1000,
-      "status": "pending",
-      "paymentStatus": "pending",
+      "status": "cancelled",
+      "paymentStatus": "cancelled",
       "paymentMethod": "midtrans",
       "isSandbox": true,
       "id": "1778202050067-qvr2f7r0d",
       "createdAt": "2026-05-08T01:00:50.067Z",
-      "updatedAt": "2026-05-08T01:00:52.169Z",
+      "updatedAt": "2026-05-08T01:01:00.832Z",
       "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/75fa82ed-3828-4237-818a-6ab297a491db/qr-code",
       "paymentTransactionId": "75fa82ed-3828-4237-818a-6ab297a491db"
     }
