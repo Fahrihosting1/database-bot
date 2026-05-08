@@ -879,13 +879,13 @@
       "buyerContact": "Fahrihosting",
       "quantity": 1,
       "totalPrice": 1000,
-      "status": "pending",
-      "paymentStatus": "pending",
+      "status": "cancelled",
+      "paymentStatus": "cancelled",
       "paymentMethod": "qris",
       "isSandbox": false,
       "id": "1778203025843-2b7pwaubi",
       "createdAt": "2026-05-08T01:17:05.843Z",
-      "updatedAt": "2026-05-08T01:17:05.843Z"
+      "updatedAt": "2026-05-08T01:17:50.456Z"
     }
   ],
   "qrisSettings": [
