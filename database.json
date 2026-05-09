@@ -2521,6 +2521,16 @@
       "details": "Login berhasil",
       "id": "1778337089505-ku508i74r",
       "createdAt": "2026-05-09T14:31:29.505Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "action": "logout",
+      "ipAddress": "140.213.250.169",
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1724 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36 VivoBrowser/10.8.3.3",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Logout dari akun",
+      "id": "1778337247269-9hfsztzua",
+      "createdAt": "2026-05-09T14:34:07.269Z"
     }
   ]
 }
