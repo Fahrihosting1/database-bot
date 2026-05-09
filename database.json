@@ -2397,6 +2397,13 @@
       "details": "Login berhasil",
       "id": "1778209263738-0ozyypu18",
       "createdAt": "2026-05-08T03:01:03.738Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "action": "bot_activate",
+      "details": "Bot \"Test\" diaktifkan",
+      "id": "1778291230159-4aoj59ur9",
+      "createdAt": "2026-05-09T01:47:10.159Z"
     }
   ]
 }
