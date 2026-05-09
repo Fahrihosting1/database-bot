@@ -2082,6 +2082,18 @@
       "message": "Bot \"Test\" diaktifkan",
       "id": "1778291108500-ixx9bitfz",
       "createdAt": "2026-05-09T01:45:08.500Z"
+    },
+    {
+      "botToken": "8490983452:AAG8Z-vvjKmNug-Jw-sDUS3IlhF1FYzzjQ4",
+      "botName": "Test",
+      "userId": "1778030868005-31q1qxn5c",
+      "userName": "7983128433",
+      "action": "start",
+      "telegramUserId": "7983128433",
+      "telegramUsername": "Lilillfh",
+      "message": "/start from Ali",
+      "id": "1778291121408-8v3mav4yb",
+      "createdAt": "2026-05-09T01:45:21.408Z"
     }
   ],
   "accountActivities": [
