@@ -109,11 +109,11 @@
       "botToken": "8677493011:AAHMNTq4M0rHf3yZy76ecbs7ylpFqdcBgV0",
       "ownerId": "7983128433",
       "botName": "Test",
-      "isActive": true,
+      "isActive": false,
       "id": "1778030909998-dz5h1uj07",
       "userId": "1778030868005-31q1qxn5c",
       "createdAt": "2026-05-06T01:28:29.998Z",
-      "updatedAt": "2026-05-09T01:47:09.050Z",
+      "updatedAt": "2026-05-09T01:48:33.847Z",
       "preferredPaymentMethod": "orkut",
       "botPhotoUrl": "https://files.catbox.moe/iubx85.jpg"
     }
