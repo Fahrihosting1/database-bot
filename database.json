@@ -2416,6 +2416,16 @@
       "details": "Bot \"Test\" diaktifkan",
       "id": "1778291230159-4aoj59ur9",
       "createdAt": "2026-05-09T01:47:10.159Z"
+    },
+    {
+      "userId": "1778030868005-31q1qxn5c",
+      "action": "logout",
+      "ipAddress": "140.213.21.210",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Logout dari akun",
+      "id": "1778291335066-a2omdm8n4",
+      "createdAt": "2026-05-09T01:48:55.066Z"
     }
   ]
 }
