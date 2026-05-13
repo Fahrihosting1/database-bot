@@ -2571,9 +2571,17 @@
       "details": "Login berhasil",
       "id": "1778509061325-1duqgx6kq",
       "createdAt": "2026-05-11T14:17:41.325Z"
+    },
+    {
+      "userId": "1777658887278-zgwupt9mz",
+      "action": "login",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Login berhasil",
+      "id": "1778644243864-6tcgpgv9t",
+      "createdAt": "2026-05-13T03:50:43.864Z"
     }
   ],
-  "errorLogs": [],
-  "whatsappSettings": [],
-  "whatsappActivityLogs": []
+  "errorLogs": []
 }
