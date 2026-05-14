@@ -2614,6 +2614,16 @@
       "details": "Login berhasil",
       "id": "1778644492900-wc916mulr",
       "createdAt": "2026-05-13T03:54:52.900Z"
+    },
+    {
+      "userId": "1778018701182-oqyfz46qa",
+      "action": "login",
+      "ipAddress": "103.172.25.42",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36",
+      "deviceInfo": "Chrome on Linux",
+      "details": "Login berhasil",
+      "id": "1778742626813-jn7ts17a8",
+      "createdAt": "2026-05-14T07:10:26.813Z"
     }
   ],
   "errorLogs": []
