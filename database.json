@@ -138,6 +138,7 @@
       "waLastConnected": "2026-05-15T20:03:23.518Z"
     }
   ],
+  "productCategories": [],
   "products": [
     {
       "userId": "1777658887278-zgwupt9mz",
@@ -923,5 +924,27 @@
       "paymentQrisUrl": "https://api.sandbox.midtrans.com/v2/qris/573ae870-5b81-4ba9-b3a4-40c7388b2be2/qr-code",
       "paymentTransactionId": "573ae870-5b81-4ba9-b3a4-40c7388b2be2"
     }
-  ]
+  ],
+  "qrisSettings": [],
+  "payments": [],
+  "paymentSettings": null,
+  "otpSettings": null,
+  "withdrawals": [],
+  "balanceAdjustments": [],
+  "botSubscriptions": [],
+  "adminFeeIncomes": [],
+  "botActivityLogs": [],
+  "accountActivities": [
+    {
+      "userId": "1779663185849-virotvl6j",
+      "action": "login",
+      "ipAddress": "182.8.182.246",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+      "deviceInfo": "Firefox on Linux",
+      "details": "Login berhasil",
+      "id": "1779663342883-5algticji",
+      "createdAt": "2026-05-24T22:55:42.883Z"
+    }
+  ],
+  "errorLogs": []
 }
