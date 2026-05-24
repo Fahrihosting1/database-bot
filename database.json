@@ -79,6 +79,15 @@
       "id": "1778198742522-3zk1xkyhw",
       "createdAt": "2026-05-08T00:05:42.522Z",
       "updatedAt": "2026-05-08T00:05:42.522Z"
+    },
+    {
+      "name": "johny",
+      "email": "ssjelina@gmail.com",
+      "password": "9a7a1488d915719f731f52c0283e0aec0de4521efb53731d327841b3e5958788",
+      "role": "user",
+      "id": "1779642076486-7xehlmwog",
+      "createdAt": "2026-05-24T17:01:16.486Z",
+      "updatedAt": "2026-05-24T17:01:16.486Z"
     }
   ],
   "botSettings": [
