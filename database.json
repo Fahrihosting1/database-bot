@@ -944,6 +944,16 @@
       "details": "Login berhasil",
       "id": "1779663342883-5algticji",
       "createdAt": "2026-05-24T22:55:42.883Z"
+    },
+    {
+      "userId": "1779663185849-virotvl6j",
+      "action": "logout",
+      "ipAddress": "182.8.182.246",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+      "deviceInfo": "Firefox on Linux",
+      "details": "Logout dari akun",
+      "id": "1779663406963-z56ewvb5m",
+      "createdAt": "2026-05-24T22:56:46.963Z"
     }
   ],
   "errorLogs": []
