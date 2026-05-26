@@ -933,7 +933,20 @@
   "balanceAdjustments": [],
   "botSubscriptions": [],
   "adminFeeIncomes": [],
-  "botActivityLogs": [],
+  "botActivityLogs": [
+    {
+      "botToken": "8302313228:AAHR3Lb84aU5nJ0A-nNGbwXex2cQBK35IZ4",
+      "botName": "Tai",
+      "userId": "1778022511715-lwset60rh",
+      "userName": "7983128433",
+      "action": "start",
+      "telegramUserId": "7983128433",
+      "telegramUsername": "Lilillfh",
+      "message": "/start from Ali",
+      "id": "1779795440311-vbl9ncj6t",
+      "createdAt": "2026-05-26T11:37:20.311Z"
+    }
+  ],
   "accountActivities": [
     {
       "userId": "1779663185849-virotvl6j",
