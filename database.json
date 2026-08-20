@@ -96,6 +96,15 @@
       "id": "1779663185849-virotvl6j",
       "createdAt": "2026-05-24T22:53:05.849Z",
       "updatedAt": "2026-05-24T22:53:05.849Z"
+    },
+    {
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "password": "acdd0624d327a8dd0b741d8c023ee2ecb59930e39da1e9a8a284ebdac0a9bd8e",
+      "role": "user",
+      "id": "1787234048192-hfz0fvjwu",
+      "createdAt": "2026-08-20T13:54:08.192Z",
+      "updatedAt": "2026-08-20T13:54:08.192Z"
     }
   ],
   "botSettings": [
